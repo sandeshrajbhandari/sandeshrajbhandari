@@ -4,3 +4,4 @@ I'm Sandesh from Australia, and I do website development for businesses and firm
 
 I also enjoy wireframing, ui, ux, and design in general. You can check out my twitter at [twitter.com/sandeshrajx](twitter.com/sandeshrajx)
 
+![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshrajbhandari&theme=dark&show_icons=true)
